@@ -1,8 +1,9 @@
 # Algo Viz 🔍📊
 
-**Algo Viz** is an interactive algorithm visualizer built with **React.js** to help you understand and explore core algorithmic concepts in **pathfinding**, **searching**, and **sorting**. Perfect for students, educators, and curious developers who want to see algorithms in action!
+**Algo Viz** is an interactive Algorithm Visualizer built with **React.js** to help you understand and explore core algorithmic concepts in **pathfinding**, **searching**, and **sorting**. Perfect for students, educators, and curious developers who want to see algorithms in action!
 
-![Algo Viz Preview](![image](https://github.com/user-attachments/assets/6aa3ba6f-4ffa-41b2-af9d-169944399eb4) ![image](https://github.com/user-attachments/assets/7d115390-237e-4e3c-9ed0-4eb44bf360d7) ![image](https://github.com/user-attachments/assets/1c79a926-deec-4814-8ea5-261b1177af99))
+### Algo Viz Preview
+![image](https://github.com/user-attachments/assets/6aa3ba6f-4ffa-41b2-af9d-169944399eb4) ![image](https://github.com/user-attachments/assets/7d115390-237e-4e3c-9ed0-4eb44bf360d7) ![image](https://github.com/user-attachments/assets/1c79a926-deec-4814-8ea5-261b1177af99))
 
 ## 🚀 Live Demo
 
