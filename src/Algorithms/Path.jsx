@@ -106,6 +106,7 @@ const Path = () => {
   const WallChange = (grid, row, col) => {
     const newGrid = [...grid];
     const node = newGrid[row][col];
+    if (node.isStart || node.isFinish) return grid;
     const newNode = {
       ...node,
       isWall: !node.isWall,
